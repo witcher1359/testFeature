@@ -1,1 +1,2 @@
-console.log('awesome Project');
+console.log('Awesome project');
+const arr=[];
